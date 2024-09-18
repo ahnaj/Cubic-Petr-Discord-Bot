@@ -1,0 +1,156 @@
+[
+    {
+        "id": "BornholmOpen2025",
+        "name": "Bornholm Open 2025",
+        "country": "DK",
+        "latitude": 55.101775,
+        "longitude": 14.707929
+    },
+    {
+        "id": "SkewbontheMadisonSnow2025",
+        "name": "Skewb on the Madison Snow 2025",
+        "country": "US",
+        "latitude": 43.071556,
+        "longitude": -89.380278
+    },
+    {
+        "id": "DelhiCubeChallenge2024",
+        "name": "Delhi Cube Challenge 2024",
+        "country": "IN",
+        "latitude": 28.549638,
+        "longitude": 77.121453
+    },
+    {
+        "id": "MadridNorteOpen2024",
+        "name": "Madrid Norte Open 2024",
+        "country": "ES",
+        "latitude": 40.490187,
+        "longitude": -3.655312
+    },
+    {
+        "id": "QuietSeattleOctober2024",
+        "name": "Quiet Seattle October 2024",
+        "country": "US",
+        "latitude": 47.660014,
+        "longitude": -122.305292
+    },
+    {
+        "id": "SPACOpen2024",
+        "name": "SPAC Open 2024",
+        "country": "BR",
+        "latitude": -23.674641,
+        "longitude": -46.713201
+    },
+    {
+        "id": "FirstSolvesatFisketorvet2024",
+        "name": "First Solves at Fisketorvet 2024",
+        "country": "DK",
+        "latitude": 55.661931,
+        "longitude": 12.561373
+    },
+    {
+        "id": "GemCityAirplaneModeXIIOH2024",
+        "name": "Gem City Airplane Mode XII OH 2024",
+        "country": "US",
+        "latitude": 39.552281,
+        "longitude": -84.233271
+    },
+    {
+        "id": "CreweSpring2025",
+        "name": "Crewe Spring 2025",
+        "country": "GB",
+        "latitude": 53.086843,
+        "longitude": -2.436261
+    },
+    {
+        "id": "ManchesterSpring2025",
+        "name": "Manchester Spring 2025",
+        "country": "GB",
+        "latitude": 53.379744,
+        "longitude": -2.265447
+    },
+    {
+        "id": "CubingatHamptonBeach2025",
+        "name": "Cubing at Hampton Beach 2025",
+        "country": "US",
+        "latitude": 42.913404,
+        "longitude": -70.809591
+    },
+    {
+        "id": "BasauriOpen2024",
+        "name": "Basauri Open 2024",
+        "country": "ES",
+        "latitude": 43.234267,
+        "longitude": -2.89501
+    },
+    {
+        "id": "CorinthComicConCubing2024",
+        "name": "Corinth Comic Con Cubing 2024",
+        "country": "US",
+        "latitude": 34.911591,
+        "longitude": -88.547701
+    },
+    {
+        "id": "MixupinLucena2024",
+        "name": "Mix-up in Lucena 2024",
+        "country": "PH",
+        "latitude": 13.929857,
+        "longitude": 121.608964
+    },
+    {
+        "id": "PUCPZomblinders2024",
+        "name": "PUCP Zomblinders 2024",
+        "country": "PE",
+        "latitude": -12.070513,
+        "longitude": -77.081258
+    },
+    {
+        "id": "DaeguAutumn2024",
+        "name": "Daegu Autumn 2024",
+        "country": "KR",
+        "latitude": 35.919119,
+        "longitude": 128.640162
+    },
+    {
+        "id": "FMCBelgianNationals2024",
+        "name": "FMC Belgian Nationals 2024",
+        "country": "BE",
+        "latitude": 50.668504,
+        "longitude": 4.619493
+    },
+    {
+        "id": "QuietLouvainLaNeuve2024",
+        "name": "Quiet Louvain-La-Neuve 2024",
+        "country": "BE",
+        "latitude": 50.668504,
+        "longitude": 4.619493
+    },
+    {
+        "id": "PucallpaalCubo2024",
+        "name": "Pucallpa al Cubo 2024",
+        "country": "PE",
+        "latitude": -8.384088,
+        "longitude": -74.531797
+    },
+    {
+        "id": "NxNSanMiguelOpen2024",
+        "name": "NxN San Miguel Open 2024",
+        "country": "CL",
+        "latitude": -33.506843,
+        "longitude": -70.632455
+    },
+    {
+        "id": "TaboaoBigsBlinds2024",
+        "name": "Tabo\u00e3o Bigs & Blinds 2024",
+        "country": "BR",
+        "latitude": -23.619999,
+        "longitude": -46.768534
+    },
+    {
+        "id": "RegionalesSantander2024",
+        "name": "Regionales Santander 2024",
+        "country": "CO",
+        "latitude": 7.000452,
+        "longitude": -73.054586
+    }
+]
